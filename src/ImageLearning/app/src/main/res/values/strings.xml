@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageLearning</string>
+    <string name="action_settings">Browse Folder</string>
+    <string name="dialogMessage">Please choose the file directory: </string>
+    <string name="positive_button">OK</string>
+    <string name="negative_button">Cancel</string>
+    <string name="external_address">/storage/emulated/0/DCIM/group7/</string>
+</resources>
